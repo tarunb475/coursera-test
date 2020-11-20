@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-5">
+  <title>assignment 4 </title>
+  <script src="Hello.js"></script>
+  <script src="GoodBye.js"></script>
+  <script src="script.js"></script>
+</head>
+<body>
+  <h1>assignment 4 </h1>
+  <p>output</p>
+</body>
+</html>
